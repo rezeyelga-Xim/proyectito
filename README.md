@@ -23,7 +23,6 @@ Sistema de gestión de ingredientes que permite buscar recetas basadas en los in
 ## 📋 Requisitos Previos
 
 - JDK 11 o superior
-- Maven 3.6+ (opcional, si usas Maven)
 - SQLite JDBC Driver
 
 ## 🚀 Instalación
@@ -215,18 +214,4 @@ Las contribuciones son bienvenidas. Para cambios importantes:
 
 ## 📄 Licencia
 
-Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) para más detalles.
-
-## 👨‍💻 Autor
-
-Tu Nombre - [@tu_twitter](https://twitter.com/tu_twitter)
-
-## 🙏 Agradecimientos
-
-- [TheMealDB](https://www.themealdb.com/) por su increíble API gratuita
-- Comunidad de Java por las excelentes herramientas
-- Todos los contribuidores que hacen posible este proyecto
-
----
-
-⭐ Si este proyecto te resultó útil, considera darle una estrella!
+Este proyecto está bajo la Licencia MIT - ver el archivo para más detalles.
